@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Moisés Castro Madrigal
 
-<!--
-**MoicasCR02/MoicasCR02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Full Stack
 
-Here are some ideas to get you started:
+🎓 Software Development Engineering student  
+💻 Focused on building scalable and clean web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- Frontend: Angular, React
+- Backend: ASP.NET Core, Node.js
+- Database: SQL Server, MySQL
+- Tools: Git, GitHub, REST APIs
+
+---
+
+## 📌 Featured Projects
+- 🔹 Full Stack Web System (Angular + ASP.NET Core)
+- 🔹 Web application for process management
+- 🔹 Academic projects approved at university
+
+---
+
+## 🎯 Professional Goal
+To grow as a software developer, delivering high-quality solutions and continuously improving my skills.
+
+---
+
+📫 Contact: moisescastromadrigal@gmail.com  
+🔗 LinkedIn: [https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/moisés-castro-madrigal-848748211/)
