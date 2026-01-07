@@ -9,7 +9,7 @@ Software Developer | Full Stack
 
 ## 🛠 Tech Stack
 - Frontend: Angular, React, HTML5, CSS, SCSS
-- Backend: ASP.NET Core, Node.js
+- Backend: ASP.NET Core, Node.js, PRISMA ORM
 - Database: SQL Server, MySQL
 - Tools: Git, GitHub, REST APIs
 
